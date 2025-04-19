@@ -1,7 +1,8 @@
 # Han Truong
 
 ### Education
-Economics and Data Science, BS
+Drexel University
 
+Bachelor of Science (BS) in Economics and Data Science
 ### Projects
 
